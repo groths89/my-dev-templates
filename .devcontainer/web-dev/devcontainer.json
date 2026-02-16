@@ -8,6 +8,7 @@
     "vscode": {
       "extensions": [
         "astro-build.astro-vscode",
+        "SheltonLouis.astro-snippets",
         "ms-playwright.playwright",
         "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode",
