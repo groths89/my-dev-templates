@@ -14,7 +14,8 @@
         "esbenp.prettier-vscode",
         "google.gemini-code-assist-vscode",
         "eamodio.gitlens",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "streetsidesoftware.code-spell-checker"
       ]
     }
   },
