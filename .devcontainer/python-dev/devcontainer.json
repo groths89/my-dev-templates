@@ -10,7 +10,8 @@
         "ms-python.vscode-python-envs",
         "redhat.vscode-yaml",
         "google.gemini-code-assist-vscode",
-        "eamodio.gitlens"
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode"
       ]
     }
   }
