@@ -6,6 +6,8 @@
       "extensions": [
         "ms-python.python",
         "ms-python.vscode-pylance",
+        "ms-python.debugpy",
+        "ms-python.vscode-python-envs",
         "redhat.vscode-yaml",
         "google.gemini-code-assist-vscode",
         "eamodio.gitlens"
