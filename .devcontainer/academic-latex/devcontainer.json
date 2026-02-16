@@ -1,0 +1,13 @@
+{
+  "name": "Academic LaTeX",
+  "image": "qmcgaw/latexdevcontainer",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "james-yu.latex-workshop",
+        "valentjn.vscode-ltex",
+        "google.gemini-code-assist-vscode"
+      ]
+    }
+  }
+}
