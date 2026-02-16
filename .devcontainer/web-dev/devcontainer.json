@@ -1,0 +1,21 @@
+{
+  "name": "Web Dev (Astro/JS)",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "astro-build.astro-vscode",
+        "ms-playwright.playwright",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "google.gemini-code-assist-vscode",
+        "eamodio.gitlens"
+      ]
+    }
+  },
+  "forwardPorts": [3000, 4321],
+  "postCreateCommand": "npm install"
+}
