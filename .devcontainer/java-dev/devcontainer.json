@@ -11,7 +11,8 @@
         "humao.rest-client",
         "SonarSource.sonarlint-vscode",
         "google.gemini-code-assist-vscode",
-        "eamodio.gitlens"
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode"
       ]
     }
   }
