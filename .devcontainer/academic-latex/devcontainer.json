@@ -7,7 +7,8 @@
         "james-yu.latex-workshop",
         "esbenp.prettier-vscode",
         "valentjn.vscode-ltex",
-        "google.gemini-code-assist-vscode"
+        "google.gemini-code-assist-vscode",
+        "streetsidesoftware.code-spell-checker"
       ]
     }
   }
