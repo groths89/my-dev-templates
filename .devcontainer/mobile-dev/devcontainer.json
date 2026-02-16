@@ -7,7 +7,8 @@
         "dart-code.dart-code",
         "dart-code.flutter",
         "google.gemini-code-assist-vscode",
-        "eamodio.gitlens"
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode"
       ]
     }
   },
