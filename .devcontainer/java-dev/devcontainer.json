@@ -7,6 +7,9 @@
         "vscjava.vscode-java-pack",
         "vscjava.vscode-maven",
         "shengchen.vscode-checkstyle",
+        "ryanluker.vscode-coverage-gutters",
+        "humao.rest-client",
+        "SonarSource.sonarlint-vscode",
         "google.gemini-code-assist-vscode",
         "eamodio.gitlens"
       ]
