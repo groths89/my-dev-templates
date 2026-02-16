@@ -10,7 +10,8 @@
         "xdebug.php-debug",
         "cjhowe7.wordpress-snippets",
         "google.gemini-code-assist-vscode",
-        "eamodio.gitlens"
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode"
       ]
     }
   },
