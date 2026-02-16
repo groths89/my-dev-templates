@@ -1,0 +1,15 @@
+{
+  "name": "Mobile Dev (Flutter)",
+  "image": "ghcr.io/cirruslabs/flutter:stable",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dart-code.dart-code",
+        "dart-code.flutter",
+        "google.gemini-code-assist-vscode",
+        "eamodio.gitlens"
+      ]
+    }
+  },
+  "runArgs": ["--privileged"] 
+}
